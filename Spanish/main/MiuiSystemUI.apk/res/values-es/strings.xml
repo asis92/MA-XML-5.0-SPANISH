@@ -2,6 +2,7 @@
 <resources>
   <string name="accessibility_airplane_mode">Modo avión</string>
   <string name="accessibility_back">Atrás</string>
+  <string name="status_bar_recent_memory_info">%1$s / %2$s disponible</string>
   <string name="accessibility_battery_full">Batería completa</string>
   <string name="accessibility_battery_level">%d de batería</string>
   <string name="accessibility_battery_one_bar">Una barra de batería</string>
