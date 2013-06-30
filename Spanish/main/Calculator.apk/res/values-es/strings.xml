@@ -12,7 +12,7 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
-    <string name="del">ELIMINAR</string>
+    <string name="del">DEL</string>
     <string name="clear">CE</string>
     <string name="div">÷</string>
     <string name="mul">×</string>
@@ -33,8 +33,9 @@
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Panel de funciones básicas</string>
-    <string name="advanced">Panel de funciones avanzadas</string>
+    <string name="basic">Básica</string>
+    <string name="advanced">Avanzada</string>
+    <string name="scientific">Cientifica</string>
     <string name="clear_history">Borrar historial</string>
     <string name="text_copied_toast">Texto copiado.</string>
 </resources>

@@ -135,7 +135,7 @@
   <string name="modify_id3_for_selected">Se editará la informacion ID3 de las canciones seleccionadas</string>
   <string name="modify_meta">Modificar la información de la canción</string>
   <string name="modify_tracks_id3_background">Modificando información ID3 de las canciones en segundo plano</string>
-  <string name="music_browser_label">Music</string>
+  <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtro de archivos</string>
   <string name="music_filter_helper">Para ocultar los archivos que no son música, se va a aplicar un filtro a todos los archivos menores de 800Kb para ocultarlos. Este filtro puede ser modificado desde Ajustes / Filtro de archivo.</string>
   <string name="music_picker_title">Elige pista de música</string>
@@ -153,11 +153,18 @@
   <string name="online_music">Música online</string>
   <string name="online_search_hint">Buscar música online</string>
   <string name="other_settings">Otros</string>
+  <string name="online_title">En linia</string>
+  <string name="correct_id3_settings">Caratula correcta</string>
+  <string name="auto_correct_id3_settings">Auto corregir ID3</string>
+  <string name="auto_correct_id3_summary">Utilizando el sonido Baidu, corregir ID3 mientras reproduce.</string>
+  <string name="correct_id3_summary">Incrementa el uso de datos. Es recomendado tenerlo desactivado.</string>
   <string name="overwrite_confirm">Sobreescribir</string>
   <string name="picker_song_add">Añadir (%d)</string>
   <string name="play_and_download">Escuchar y descargar</string>
   <string name="play_and_download_summary">Se descargarán las canciones online escuchadas</string>
   <string name="play_selection">Reproducir</string>
+  <string name="enter_sleep_mode">Entrar en modo dormido</string>
+  <string name="cancel_sleep_mode">Salir del modo dormido</string>
   <string name="playback_failed">Lo siento, el reproductor no es compatible con este tipo de archivo de audio</string>
   <string name="playback_failed_by_bad_file">"'%s' no puede reproducirse, no es compatible con el formato de archivo"</string>
   <string name="playback_failed_by_network">"'%s' no puede reproducirse, compruebe la conexión de red"</string>

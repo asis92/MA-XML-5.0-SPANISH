@@ -18,6 +18,11 @@
   <string name="error_note_empty_for_clock">Lo siento, no se puede establecer la hora en una nota vacía</string>
   <string name="error_note_empty_for_send_to_desktop">Lo siento, no se puede enviar una nota vacia al escritorio</string>
   <string name="error_note_not_exist">La nota no existe</string>
+  <string name="enable_sync_desc">Las notas pueden ser sincronizadas con la cuenta %1$s, sincronizar ahora?</string>
+  <string name="add_account_desc">Las notas pueden ser sincronizadas con una cuenta de Xiaomi. Iniciar session y sincronizar?</string>
+  <string name="not_now">Ahora no</string>
+  <string name="enable_sync">Sincronizar</string>
+  <string name="login_sync">Iniciar sessión &amp; sincronizar</string>
   <string name="error_sdcard_export">Fallo al exportar, por favor compruebe la tarjeta SD</string>
   <string name="error_sdcard_unmounted">Tarjeta SD ocupada, ahora no está disponible</string>
   <string name="error_sync_cancelled">Sincronización cancelada</string>
@@ -29,6 +34,7 @@
   <string name="folder_exist">La carpeta %1$s ya existe, renombrela</string>
   <string name="format_date_ymd">ddMMyyyy</string>
   <string name="format_datetime_mdhm">d MMM kk:mm</string>
+  <string name="select_account_prompt">Activar la sincronización de las notas</string>
   <string name="format_exported_file_location">Exportado archivo de texto (%1$s) al directorio de la tarjeta SD (%2$s)</string>
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">Se han movido %1$d notas a la carpeta %2$s</string>
@@ -111,4 +117,9 @@
   <string name="toast_message_replace_image_fail">¡Fallo al reemplazar imagen!</string>
   <string name="widget_havenot_content">No hay nota asociada encontrado, haga clic para crear la nota asociada.</string>
   <string name="widget_under_visit_mode">Esta en modo invitado, no se puede ver el contenido</string>
+  <string name="pref_title_note_style">Estilo de la nota</string>
+  <string name="pref_desc_mode_list">Lista</string>
+  <string name="pref_desc_mode_grid">Graella</string>
+  <string name="pref_title_data_export">Exportar datos</string>
+  <string name="pref_title_data_export_to_sdcard">Exportar nota a la Targeta SD</string>
 </resources>
