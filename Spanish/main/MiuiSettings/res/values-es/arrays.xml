@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="powermanage_entries">
+        <item>Solo llamadas</item>
+        <item>Ahorro Bateria</item>
+        <item>Normal</item>
+        <item>Perfomance</item>
+    </string-array>
+    <string-array name="powermanage_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>Defecto</item>
+        <item>Agresivo</item>
+        <item>Equilibrado</item>
+        <item>Multi Tarea</item>
+        <item>Juegos</item>
+    </string-array>
+    <string-array name="lowmem_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="main_storage_entries">
+        <item>@string/internal_sdcard</item>
+        <item>@string/external_sdcard</item>
+    </string-array>
+    <string-array name="main_storage_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

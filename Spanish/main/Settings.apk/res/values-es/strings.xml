@@ -824,6 +824,8 @@
   <string name="preferred_launcher_warning_title">Reemplazar el launcher por defecto</string>
   <string name="preferred_launcher_warning_message">Reemplazar el launcher por defecto, puede reducir la bateria, la velocidad, añadir contendio de riesgo etc. Recomendamos utilizar el launcher predefinido por defecto.</string>
   <string name="preferred_launcher_warning_replace">Reemplazar de todas formas</string>
+  <string name="privacy_mode_enable_sum">Esconder el registro de llamadas, mensajes para protejer la privacidad</string>
+  <string name="ac_privacy_mode_sum">Control de la entrada de contraseñas en modo seguro</string>
   <string name="preferred_launcher_warning_use_system">Utilizar el launcher por defecto</string>
   <string name="sound_category_system_title">Sistema</string>
   <string name="keyboard_layout_default_label">Predeterminado</string>
@@ -833,6 +835,7 @@
   <string name="keyboard_layout_picker_title">Disposición del teclado</string>
   <string name="keyboard_settings_category">Teclados</string>
   <string name="keyboard_settings_title">Teclado de Android</string>
+  <string name="last_synced">Última sincronización %1$s</string>
   <string name="language_keyboard_settings_title">Idioma y entrada de texto</string>
   <string name="language_picker_title">Idioma</string>
   <string name="language_settings">Idioma y entrada de texto</string>

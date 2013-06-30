@@ -26,6 +26,11 @@
   <string name="description_unknown">Desconocido</string>
   <string name="description_version">Versión:</string>
   <string name="download_failed">Descarga Fallida</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth</string>
+  <string name="volume_icon_description_incall">Llamada</string>
+  <string name="volume_icon_description_media">Media</string>
+  <string name="volume_icon_description_notification">Notificaciones</string>
+  <string name="volume_icon_description_ringer">Telefono</string>
   <string name="download_preview_failed">No se ha podido previsualizar</string>
   <string name="every_day">Diario</string>
   <string name="find_device_sim_change_instructions">"Tu dispositivo ha sido bloqueado. Por favor inserta la tarjeta SIM o intruce la contraseña de tu cuenta Xiaomi"</string>

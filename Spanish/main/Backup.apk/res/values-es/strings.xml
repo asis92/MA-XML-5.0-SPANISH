@@ -36,6 +36,10 @@
   <string name="button_ok">Aceptar</string>
   <string name="button_return">Volver</string>
   <string name="call_title">Registro de llamadas</string>
+  <string name="backup_empty_info">Backup de los datos, ajustes y aplicaciones</string>
+  <string name="system_backup_info">Ajustes de sistema, fondo de pantalla...</string>
+  <string name="software_backup_info">Backup de las aplicaciones y sus datos.</string>
+  <string name="account_contact_backup_info">Datos (Cuenta de Xiaomi, Gmail y Cuenta Email. Se guardaran las cuentas y los contactos juntos.)</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Cancelar</string>
   <string name="cancel_restore">Cancelar</string>

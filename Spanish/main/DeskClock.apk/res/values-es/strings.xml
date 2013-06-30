@@ -84,8 +84,8 @@
     <string name="slide_down_delelte_alarm">Deslizar abajo para descartar</string>
     <string name="start">Iniciar</string>
     <string name="pause">Pausar</string>
-    <string name="reset">Reset</string>
-    <string name="lap">Lap</string>
+    <string name="reset">Reiniciar</string>
+    <string name="lap">Vuelta</string>
     <string name="timer_continue">Continuar</string>
     <string name="elapsed_hour">%d horas</string>
     <string name="worldclock_empty_text">Sin relojes mundiales</string>
@@ -109,4 +109,11 @@ sentido horario"</string>
     <string name="alarm_duration_summary">La alarma sonará a intérvalos de %d minutos</string>
     <string name="alarm_count_summary">" y se detendrá después de sonar %d veces"</string>
     <string name="alarm_count_never_summary">" y no se dentendrá nunca"</string>
+    <string name="default_alarm_title">Tono por defecto</string>
+    <string name="alarm_alert">Tono normal</string>
+    <string name="alarm_screen">Pantalla de alarma y tono</string>
+    <string name="system_time_setting">Ajustes de hora</string>
+    <string name="stopwatch_lap_empty_text">Sin Vueltas</string>
+    <string name="lap">Vuelta</string>
+    <string name="lap_num">Vuelta</string>
 </resources>

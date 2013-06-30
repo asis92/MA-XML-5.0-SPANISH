@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Miui_settings">Adicional</string>
+    <string name="fast_power_on_title">Inicio Rapido</string>
+    <string name="fast_power_on_summary">Activar para aumentar el rendimiento</string>
+    <string name="project_menu_title">Menú del Proyecto</string>
+    <string name="vsync">Acelerar UI</string>
+    <string name="vsync_summary">Accelerar UI da una mejor experiencia</string>
+    <string name="swap">SWAP</string>
+    <string name="swap_summary">Utilizar SWAP mejora la memoria</string>
+    <string name="preferences_application_title">Información del autor</string>
+    <string name="storage_enable_title">Utilizar SD externa</string>
+    <string name="storage_enable_summary">Utilizar SD externa como almacenamiento Primario (Es necessario reiniciar)</string>
+    <string name="powermanage">Gestor de Bateria</string>
+    <string name="powermanage_summary">Selecciona el modo</string>
+    <string name="dts_mode">DTS modo de sonido</string>
+    <string name="dts_mode_summary">Activar/Desactivar efectos DTS</string>
+    <string name="lite_title">Sistema lijero</string>
+    <string name="lite_summary">Servicios de Sistema Lijeros</string>
+    <string name="miui">Servicios de MIUI</string>
+    <string name="miui_summary">Servicios de MIUI lijeros</string>
+    <string name="google">Servicios de Google</string>
+    <string name="google_summary">Servidios de Google lijeros</string>
+    <string name="network">Red/Seguridad</string>
+    <string name="network_summary">Red lijera/Servicios Seguros</string>
+    <string name="other">Otros</string>
+    <string name="other_summary">Otros servicios lijeros</string>
+    <string name="main_storage">Almacenamiento por defecto (Es necessario Reiniciar)</string>
+    <string name="internal_sdcard">Almacenamiento interno</string>
+    <string name="external_sdcard">Almacenamiento externo SDCARD (Actualizaciones OTA no soportadas)</string>
+    <string name="application_version">GENO traducida por eloimuns</string>
+    <string name="application_copyright">"Copyright © genokolar@gmail.com"</string>
+    <string name="lowmem">Gestor de memoria</string>
+    <string name="lowmem_summary">Selecciona el modo de memoria</string>
+</resources>
